@@ -1,0 +1,6 @@
+framework module Pods_TDPYoutube {
+  umbrella header "Pods-TDPYoutube-umbrella.h"
+
+  export *
+  module * { export * }
+}
